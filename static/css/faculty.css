@@ -1,0 +1,99 @@
+.founders{
+    padding: 30px 40px;
+    text-align: center;
+    background: #70f5ffed;
+    border-radius: 40px;
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 1%;
+}
+
+.founders .people{
+    display: flex;
+}
+
+.founders h1{
+    font-size:  40px;
+    margin-bottom: 20px;
+}
+
+.ted{
+    background: #45c2cbed;
+    margin-left: 0.5%;
+    width: 50%;
+    border-radius: 40px;
+}
+.ted h2{
+    font-size:  30px;
+    margin-bottom: 20px;
+}
+.ted-image img{
+    max-width: 50%;
+}
+
+.elena{
+    background: #45c2cbed;
+    /* transform: translateX(50%); */
+    margin-left: 0.5%;
+    width: 50%;
+    border-radius: 40px;
+}
+.elena h2{
+    font-size:  30px;
+    margin-bottom: 20px;
+}
+.elena-image img{
+    max-width: 50%;
+}
+
+
+
+.coaches{
+    padding: 30px 40px;
+    text-align: center;
+    background: #70f5ffbb;
+    border-radius: 40px;
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 1%;
+}
+
+.coaches .people{
+    display: flex;
+}
+
+.coaches h1{
+    font-size:  40px;
+    margin-bottom: 20px;
+}
+
+.jingqi{
+    background: #45c2cbed;
+    margin-left: 0.5%;
+    width: 50%;
+    border-radius: 40px;
+}
+.jingqi h2{
+    font-size:  30px;
+    margin-bottom: 20px;
+}
+.jingqi-image img{
+    max-width: 50%;
+}
+
+.michelle{
+    background: #45c2cbed;
+    /* transform: translateX(50%); */
+    margin-left: 0.5%;
+    width: 50%;
+    border-radius: 40px;
+}
+.michelle h2{
+    font-size:  30px;
+    margin-bottom: 20px;
+}
+.michelle-image img{
+    max-width: 50%;
+}

@@ -1,0 +1,40 @@
+.hero h1{
+    padding: 60px 40px;
+}
+
+.abcs{
+    display: flex;
+    gap: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.accessibility{
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 33%;
+    height: 900px;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+.betterment{
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 33%;
+    background-color: aqua;
+    border-radius: 20px;
+}
+.curation{
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 33%;
+    background-color: aqua;
+    border-radius: 20px;
+}
