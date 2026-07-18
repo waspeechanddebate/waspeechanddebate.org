@@ -13,11 +13,41 @@
     margin-bottom: 20px;
 }
 .BTB p{
+    margin-top: 1%;
     text-align: 50%;
     font-size:  30px;
     margin-bottom: 20px;
 }
 
+.Ws{
+    padding: 30px 20px;
+    text-align: center;
+    background: #4da6ff;
+    border-radius: 40px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.Ws p{
+    margin-left: 10%;
+    text-align: left;
+    font-size:  40px;
+    margin-bottom: 20px;
+}
+.sign-up{
+    display: inline-block;
+    padding: 20px 20px;
+    background: #2051ba;
+    color: white;
+    text-decoration:  none;
+    border-radius: 30px;
+    font-size: 40px;
+    transition: 0.3s;
+}
+.sign-up:hover{
+    background: #2564eb99;
+    color: rgb(0, 0, 0);
+    transform: translateY(-2px);
+}
 
 .panel{
     background-color: #d2e9ff;
@@ -45,19 +75,4 @@
     padding: 20px;
     width: 100%;
     font-size: 30px;
-}
-.sign-up{
-    display: inline-block;
-    padding: 20px 20px;
-    background: #2051ba;
-    color: white;
-    text-decoration:  none;
-    border-radius: 30px;
-    font-size: 40px;
-    transition: 0.3s;
-}
-.sign-up:hover{
-    background: #2564eb99;
-    color: rgb(0, 0, 0);
-    transform: translateY(-2px);
 }
